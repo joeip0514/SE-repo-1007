@@ -15,3 +15,7 @@ elif choice == '/':
     print(f"Result: {divide(num1, num2)}")
 else:
     print("Invalid input")
+def add(a, b):
+    return a + b
+def subtract(a, b):
+    return a - b
